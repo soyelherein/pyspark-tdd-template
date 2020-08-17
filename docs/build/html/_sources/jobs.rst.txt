@@ -1,8 +1,5 @@
-jobs package
-============
-
-Submodules
-----------
+`Jobs` package
+==============
 
 jobs.pipeline module
 --------------------
@@ -12,11 +9,3 @@ jobs.pipeline module
    :undoc-members:
    :show-inheritance:
 
-
-Module contents
----------------
-
-.. automodule:: jobs
-   :members:
-   :undoc-members:
-   :show-inheritance:

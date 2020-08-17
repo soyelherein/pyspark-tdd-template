@@ -1,8 +1,5 @@
-tests package
-=============
-
-Submodules
-----------
+`Tests` package
+===============
 
 tests.conftest module
 ---------------------
@@ -20,11 +17,3 @@ tests.test\_pipeline module
    :undoc-members:
    :show-inheritance:
 
-
-Module contents
----------------
-
-.. automodule:: tests
-   :members:
-   :undoc-members:
-   :show-inheritance:

@@ -1,8 +1,5 @@
-dependencies package
-====================
-
-Submodules
-----------
+`Dependencies` package
+======================
 
 dependencies.job\_submitter module
 ----------------------------------
@@ -12,11 +9,3 @@ dependencies.job\_submitter module
    :undoc-members:
    :show-inheritance:
 
-
-Module contents
----------------
-
-.. automodule:: dependencies
-   :members:
-   :undoc-members:
-   :show-inheritance:
