@@ -16,6 +16,7 @@ from recommonmark.parser import CommonMarkParser
 sys.path.insert(0, os.path.abspath('../../'))
 
 source_parsers = {'.md': CommonMarkParser}
+master_doc = 'index'
 
 source_suffix = ['.rst', '.md']
 
